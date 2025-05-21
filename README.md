@@ -1,5 +1,13 @@
-# pdntc-order
+# field-ordering-experiment
 Small experiment with AI
+
+## Setup
+
+To install the dependencies and setup your environment it is recommended to use `uv`:
+
+```
+uv sync
+```
 
 ## Running
 
